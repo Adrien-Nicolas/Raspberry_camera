@@ -1,7 +1,5 @@
 # Raspberry_camera
 
-# Django_API_public
-
 Make with 
 [![My Skills](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg)
 
